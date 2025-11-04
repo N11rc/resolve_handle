@@ -47,5 +47,5 @@ Bu nedenle, zamanlaması değiştirilmiş klipler script tarafından ATLANDI ola
 ilgili efektlerin geçici olarak kaldırılması, script çalıştırılması ve ardından efektlerin tekrar uygulanması gerekmektedir.
 
 ÖNEMLİ NOT: Bu script Resolve Stduio sürümleri için yapılmıştır.
-Script ile ilgili geri bildirimleriniz, yaşadığınız sorunlar veya yeni özellik talepleriniz için bana aşağıdaki iletişim adresinden ulaşabilirsiniz.
-nehircanatabek@yandex.com 
+Script ile ilgili geri bildirimleriniz, yaşadığınız sorunlar veya yeni özellik talepleriniz için bana ulaşabilirsiniz.
+

@@ -22,7 +22,7 @@ mkdir -p "$HOME/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fu
 
 # 2) Scripti Resolve menüsüne bağlar (Sembolik Link)
 # LÜTFEN DOSYA YOLUNU GÜNCELLEYİN!
-ln -sf "/Users/NehirMacMini/Projects/handle/n11r_handle.py" \
+ln -sf "/Users/Dosya/Yolu/n11r_handle.py" \
 "$HOME/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Edit/n11r_Extender.py"
 
 Bu işlemin ardından script, Resolve menüsünde "n11r Extender" adıyla görünecektir.

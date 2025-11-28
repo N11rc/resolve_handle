@@ -15,8 +15,6 @@ Kurulum Adımları
 DİKKAT: İlk komutta tırnak işaretleri içindeki dosya yolunu ("/Kendi/Kaydettiğin/Dosya/Yolu/n11r_handle.py") mutlaka kendi dosyanızın 
 tam yolu ile değiştirin.
 
- /Users/NehirMacMini/Projects/handle/n11r_handle.py
-
 # 1) Resolve'un Script klasörünü oluşturur
 mkdir -p "$HOME/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Edit"
 
